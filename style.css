@@ -1,0 +1,54 @@
+/*.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover,  .navbar-brand:active{
+    color: rgb(255, 255, 255);
+}
+
+.nav-item a {
+    color :rgb(201, 201, 201);
+}
+
+.active:hover, .active:active {
+    color :beige;
+}
+
+.nav-link[aria-current] {
+    color: white;
+}*/
+
+.banner {
+    padding: 40px 0px 80px 0px;
+    background-image: url(images/Surfer\ au\ coucher\ du\ soleil.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.b-title h1, .b-title p {
+    color: white;
+}
+
+.my-container {
+    margin-top: 40px;
+}
+
+.my-container h2 {
+    margin-bottom: 40px;
+}
+
+.element img {
+    width: 100px;
+}
+
+.element {
+    margin-right: 15px;
+}
+
+.testy {
+    margin-right: 15px;
+}
