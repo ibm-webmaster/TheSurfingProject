@@ -52,3 +52,16 @@
 .testy {
     margin-right: 15px;
 }
+
+.price-block .price {
+    margin: 20px 15px;
+}
+
+img.t-image {
+    height: 300px;
+}
+
+.title-two {
+    font-size: 45px;
+    margin-top: 40px;
+}
